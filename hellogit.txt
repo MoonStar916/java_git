@@ -7,7 +7,5 @@ hello git,hello world!everything will fine!
 hello git,hello world!
 peace world!happy everyday!
 today is double 11 shopping day,
-i bought many foods in tianmao.
-there is less and less money!
-this year has been gone ,next year ,everything goes well !:wq
-
+i bought a lot of food.
+maybe it can be used util new year!
